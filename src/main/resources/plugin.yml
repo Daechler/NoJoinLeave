@@ -3,4 +3,4 @@ version: '${project.version}'
 main: net.daechler.nojoinleave.NoJoinLeave
 api-version: 1.19
 authors: [ Daechler ]
-description: This plugin disables the vanilla join and leave messages.
+description: Disable the vanilla join and leave messages.
